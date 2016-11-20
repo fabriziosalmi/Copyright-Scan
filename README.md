@@ -1,2 +1,2 @@
 # copyrightscan.com
-GitHub repository for copyrightscan.com website
+GitHub public repository for the copyrightscan.com website. Some php scripts will be published in the api folder.
