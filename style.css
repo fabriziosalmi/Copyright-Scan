@@ -527,10 +527,9 @@ a[data-lightbox]:hover img{
 
 /* Bloc image backgrounds */
 
-.bg-city-overlay{
-	background-image:url("img/city-overlay.png");
+.bg-city-overlay {
+    background-color: #3a3a3a;
 }
-
 
 .quote {
     color: rgba(0,0,0,.1);
